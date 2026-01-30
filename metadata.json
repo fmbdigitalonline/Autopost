@@ -1,0 +1,7 @@
+{
+  "name": "AutoPost AI",
+  "description": "An automated social media content engine that transforms briefs into captions, voiceovers, and videos using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
